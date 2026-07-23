@@ -1,6 +1,6 @@
 #include "atlas_common/hello.hpp"
 
-namespace atlas
+namespace atlas::common
 {
 
 std::string Hello::message()

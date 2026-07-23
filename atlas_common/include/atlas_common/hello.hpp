@@ -2,7 +2,7 @@
 
 #include <string>
 
-namespace atlas
+namespace atlas::common
 {
 
 class Hello
