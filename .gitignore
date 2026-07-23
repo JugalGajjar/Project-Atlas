@@ -1,0 +1,68 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+out/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+Makefile
+
+# Ninja
+.ninja_deps
+.ninja_log
+build.ninja
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.a
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+
+# Debug symbols
+*.dSYM/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Python cache (for helper scripts)
+__pycache__/
+*.pyc
+
+# ROS2 build artifacts
+install/
+log/
